@@ -238,7 +238,7 @@ td.expense{
     z-index: 1;
 }
 
-/* Forma */
+/* Form */
 
 #form{
     max-width: 500px;    
@@ -261,7 +261,7 @@ input{
     margin-top: 0.8rem;
 }
 
-.input-group small{
+.input-group .help{
     opacity: 0.4;
 }
 
